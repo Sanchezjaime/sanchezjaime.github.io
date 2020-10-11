@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "id": "0",
+      "project_name": "List Pagination",
+      "description": "List pagination and filtering",
+      "technologies": "[JavaScript, HTML, CSS]",
+      "live_link": " ",
+      "github_link": "github.com/Sanchezjaime/list_pagination",
+      "image_urls": "[]"
+    },
+    {
+      "id": "1",
+      "project_name": "Public API Request",
+      "description": "Creates an employee directory by communicting with a third party API",
+      "technologies": "[JavaScript, HTML, CSS, AJAX, Fetch API]",
+      "live_link": " ",
+      "github_link": "github.com/Sanchezjaime/public_api_request-v1",
+      "image_urls": "[]"
+    },
+    {
+      "id": "2",
+      "project_name": "OOP Game Show App",
+      "description": "Word guessing game",
+      "technologies": "[JavaScript, HTML, CSS]",
+      "live_link": " ",
+      "github_link": "github.com/Sanchezjaime/oop_game-v2",
+      "image_urls": "[]"
+    },
+    {
+      "id": "3",
+      "project_name": "Interactive Form",
+      "description": "Enhanced form with JavaScript",
+      "technologies": "[JavaScript, HTML, CSS]",
+      "live_link": " ",
+      "github_link": "github.com/Sanchezjaime/interactive_form",
+      "image_urls": "[]"
+    },
+    {
+      "id": "4",
+      "project_name": "Random Quote Generator",
+      "description": "Program displays randomly selected Quote",
+      "technologies": "[JavaScript, HTML, CSS]",
+      "live_link": " ",
+      "github_link": "github.com/Sanchezjaime/random-quote-generator",
+      "image_urls": "[]"
+    }
+  ]
+}
